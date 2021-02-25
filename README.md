@@ -1,2 +1,2 @@
 # JoJoLapaa
-Meaning: Greetings in Newari
+Meaning: Greetings in Newari, a remote language spoken in Nepal
