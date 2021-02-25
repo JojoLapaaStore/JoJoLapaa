@@ -1,2 +1,2 @@
 # JoJoLapaa
-Meaning: Greetings
+Meaning: Greetings in Newari
